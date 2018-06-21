@@ -1,0 +1,7 @@
+$ git clone https://github.com/ccampbell/mousetrap.git mousetrap
+
+$ git clone https://github.com/processing-js/processing-js.git processing
+
+$ git clone git://github.com/jquery/jquery.git jquery
+cd jquery
+npm run build
